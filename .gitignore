@@ -1,0 +1,8 @@
+*.npz
+trackingData*.txt
+*.report*.txt
+*.parsed.json
+*.mp4
+*.mov
+*.mkv
+*.avi
