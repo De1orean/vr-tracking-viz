@@ -4,7 +4,7 @@
 Экран разделён на три области: вид «из глаз» (камера в позиции головы), вид сбоку и оригинальное видео,
 всё синхронно по одному таймлайну.
 
-**Результат (видео):** [Google Drive](https://drive.google.com/file/d/1JL0esHf3BnXO8Sru1gNNhzI8z11vPr9E/view?usp=sharing)
+**Результат (видео):** [Google Drive](https://drive.google.com/file/d/1FpzIl7G3RP0YoK1SsIbLqrTDs74zhVi1/view?usp=sharing)
 
 ![preview](media/preview.png)
 
